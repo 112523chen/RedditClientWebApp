@@ -3,47 +3,47 @@
         {
             "id":"Notion",
             "name": "Notion",
-            "src": "/src/images/notion.jpeg"
+            "src": "https://styles.redditmedia.com/t5_hds7r/styles/communityIcon_324t3hd214r81.jpeg?width=256&format=pjpg&s=9f1e88aaa97a75615490419ce7a3bb8fb862ae4f"
         },
         {
             "id":"datascience",
             "name": "Data Science",
-            "src": "/src/images/datascience.png"
+            "src": "https://styles.redditmedia.com/t5_2sptq/styles/communityIcon_fdj8zurrifa71.png?width=256&s=a9a418840926af79a511991bce743bc67e704730"
         },
         {
             "id":"macapps",
             "name": "Mac Apps",
-            "src": "/src/images/macapps.jpg"
+            "src": "https://styles.redditmedia.com/t5_2rt9r/styles/communityIcon_0uhxpv2hraf61.jpg?width=256&format=pjpg&s=f82a73bc597d1d0fccd82cedd1ecc43d9464a07f"
         },
         {
             "id":"Slack",
             "name": "Slack",
-            "src": "/src/images/Slack.png"
+            "src": "https://styles.redditmedia.com/t5_2rvms/styles/communityIcon_q9723u7mg1741.png?width=256&s=fa76a417f26e30f63e187c9c630f5e2b6f6dc9a5"
         },
         {
             "id":"Showerthoughts",
             "name": "Shower Thoughts",
-            "src": "/src/images/showerthoughts.png"
+            "src": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_o033kp1bgrj71.png?width=256&s=d9cf508e8d75afe155697e25ebfd71d297185367"
         },
         {
             "id":"programming",
             "name": "Programming",
-            "src": "/src/images/programming.png"
+            "src": "https://styles.redditmedia.com/t5_2fwo/styles/communityIcon_1bqa1ibfp8q11.png"
         },
         {
             "id":"cscareerquestions",
             "name": "CS Career Questions",
-            "src": "src/images/cscareerquestions.png"
+            "src": "https://styles.redditmedia.com/t5_2sdpm/styles/communityIcon_u6zl61vcy9511.png?width=256&s=c175de99213f30466ec007fc18704a0414f97c9e"
         },
         {
             "id":"ProgrammerHumor",
             "name": "Programming Humor",
-            "src": "/src/images/ProgrammerHumor.png"
+            "src": "https://styles.redditmedia.com/t5_2tex6/styles/communityIcon_u89jf60zv7p41.png"
         },
         {
             "id":"CUNY",
             "name": "CUNY",
-            "src": "/src/images/CUNY.jpg"
+            "src": "https://styles.redditmedia.com/t5_2shus/styles/communityIcon_gg96dswtd1351.jpg?width=256&format=pjpg&s=d2397c5ddcb85dc6ec84de2a3365a89b627dfa54"
         }
     ]
 }
