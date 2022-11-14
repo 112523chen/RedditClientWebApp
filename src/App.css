@@ -1,0 +1,5 @@
+.app{
+    display: grid;
+    row-gap: 3rem;
+    background-color: #fcfcfc;
+}

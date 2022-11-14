@@ -1,0 +1,49 @@
+{
+    "subreddits": [
+        {
+            "id":"Notion",
+            "name": "Notion",
+            "src": "/src/images/notion.jpeg"
+        },
+        {
+            "id":"datascience",
+            "name": "Data Science",
+            "src": "/src/images/datascience.png"
+        },
+        {
+            "id":"macapps",
+            "name": "Mac Apps",
+            "src": "/src/images/macapps.jpg"
+        },
+        {
+            "id":"Slack",
+            "name": "Slack",
+            "src": "/src/images/Slack.png"
+        },
+        {
+            "id":"Showerthoughts",
+            "name": "Shower Thoughts",
+            "src": "/src/images/showerthoughts.png"
+        },
+        {
+            "id":"programming",
+            "name": "Programming",
+            "src": "/src/images/programming.png"
+        },
+        {
+            "id":"cscareerquestions",
+            "name": "CS Career Questions",
+            "src": "src/images/cscareerquestions.png"
+        },
+        {
+            "id":"ProgrammerHumor",
+            "name": "Programming Humor",
+            "src": "/src/images/ProgrammerHumor.png"
+        },
+        {
+            "id":"CUNY",
+            "name": "CUNY",
+            "src": "/src/images/CUNY.jpg"
+        }
+    ]
+}

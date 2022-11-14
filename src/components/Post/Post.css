@@ -1,0 +1,88 @@
+.post{
+    /* display: grid;
+    grid-column: 10% auto;
+    grid-row: 80% 20%;
+    width: 50%;
+    height: 50%; */
+    /* background-color: rgb(224, 216, 216); */
+    background: #fff;
+    box-shadow:  15px 20px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)!important;
+    transition: box-shadow .1s ease-in;
+    border-radius: 5px;
+    margin: 0 10rem 5rem 7rem;
+    display: flex;
+}
+.vote{
+    margin: 2rem;
+    justify-content: center;
+    align-content: flex-start;
+    text-align: center;
+}
+.btn{
+    background: none;
+    border: none;
+}
+.upVotes{
+    font-size: 1.2rem;
+    color: #717171;
+}
+.up,.down{
+    color: #717171;
+}
+.up:hover{
+    color: green;
+}
+.down:hover{
+    color:red;
+}
+.info{
+    margin-right: 5rem;
+    width: 100%;
+}
+.info-text h4{
+    font-size: 1.7rem;
+}
+.info-text a{
+    color: inherit;
+    text-decoration: none;
+}
+.info-text a:hover{
+    color: #2b3fa9;
+    text-decoration: underline;
+}
+.info-text p{
+    /* color: #717171; */
+    font-size: 1.1rem;
+}
+
+.info-data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user, .comment-num{
+    font-size: 1.2rem;
+    color: #717171
+}
+.comment-info{
+    display: flex;
+    align-content: center;
+    color: #717171
+}
+.comment-num{
+    padding-bottom: 0.3rem;
+}
+.comment-info svg{
+    margin-right: 0.15rem;
+    color: #717171
+}
+.comment-info svg:hover{
+    background-color: rgba(0,0,0,0.06);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.comment-info svg:active{
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 5px;
+    cursor: pointer;
+}

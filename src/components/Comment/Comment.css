@@ -1,0 +1,22 @@
+.comment{
+    /* background-color: lightsteelblue; */
+    background: #f6f6f6;
+    padding: 1rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 10px;
+    transition: box-shadow .1s ease-in;
+}
+.comment:hover{
+    box-shadow: 10px 30px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05)!important;
+}
+.data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user_, .date{
+    font-size: 1.1rem;
+}
+.user_{
+    font-weight: 700;
+}
